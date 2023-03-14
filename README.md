@@ -1,6 +1,6 @@
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:937DC2,50:C689C6,100:FFE6F7&text=Hello!&fontAlignY=50&fontSize=35&height=100&animation=blinking)
 
-<div align=center>
+<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B61CAB&width=435&lines=I'm+Eunhee.+Good+to+see+you!)](https://git.io/typing-svg)
 
