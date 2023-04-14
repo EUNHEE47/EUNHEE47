@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
@@ -32,11 +32,9 @@
   
 </div>
 <hr>
-<div align="center" margin="10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EUNHEE47&theme=buefy&show_icons=true&locale=en&layout=compact" alt="eunhee" />
-</div>
-<hr>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EUNHEE47&theme=buefy&show_icons=true&locale=en&layout=compact" alt="eunhee" />
+<br>
   <img src="https://github-readme-stats.vercel.app/api?username=EUNHEE47&show_icons=true&theme=buefy"/>
 </div>
 
