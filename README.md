@@ -34,7 +34,7 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EUNHEE47&theme=buefy&show_icons=true&locale=en&layout=compact" alt="eunhee" />
-<br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=EUNHEE47&show_icons=true&theme=buefy"/>
 </div>
 
